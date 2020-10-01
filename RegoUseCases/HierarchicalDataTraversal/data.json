@@ -1,0 +1,34 @@
+{
+  "ApplicationPartnerMap": {
+    "/company/hr/manager": {
+      "GET": {
+        "team1": [
+          "Ross",
+          "Rachel"
+        ],
+        "team2": [
+          "Penny"
+        ]
+      }
+    },
+    "/company/tech/employee": {
+      "GET": {
+        "team1": [
+          "Monica",
+          "Pheobe",
+          "Chandler"
+        ],
+        "team2": [
+          "Lenord"
+        ]
+      },
+      "PUT": {
+        "team3": [
+          "Mike",
+          "Gunther",
+          "Jannice"
+        ]
+      }
+    }
+  }
+}

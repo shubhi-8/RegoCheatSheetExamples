@@ -1,0 +1,6 @@
+{
+  "permissionList": {
+    "admin": "allPermission",
+    "expert": "reviewPermission"
+  }
+}

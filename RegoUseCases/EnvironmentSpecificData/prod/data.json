@@ -1,0 +1,12 @@
+{
+  "ApplicationPartnerMap": {
+    "/company/hr/manager": {
+      "GET": {
+        "team1": [
+          "Ross",
+          "Rachel"
+        ]
+      }
+    }
+  }
+}

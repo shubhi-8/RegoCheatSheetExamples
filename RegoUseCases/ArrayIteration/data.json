@@ -1,0 +1,66 @@
+{
+  "role_info": {
+    "roles": [
+      {
+        "id": "CUSTOM",
+        "type": "TOPLEVEL"
+      },
+      {
+        "id": "VENDOR_LIST_AND_EXPENSE_TXN",
+        "type": "OFFERING"
+      },
+      {
+        "id": "INVOICE_ONLY",
+        "type": "OFFERING"
+      },
+      {
+        "id": "ACCOUNTING_NONE",
+        "type": "ADMIN"
+      },
+      {
+        "id": "USER_MANAGEMENT_NONE",
+        "type": "ADMIN"
+      },
+      {
+        "id": "USER_MANAGEMENT_VIEW",
+        "type": "ADMIN"
+      },
+      {
+        "id": "USER_MANAGEMENT_EDIT",
+        "type": "ADMIN"
+      },
+      {
+        "id": "COMPANY_INFORMATION_VIEW",
+        "type": "ADMIN"
+      },
+      {
+        "id": "BILLING_SUBSCRIPTION_NONE",
+        "type": "ADMIN"
+      },
+      {
+        "id": "SUBSCRIPTION_NONE",
+        "type": "ADMIN"
+      },
+      {
+        "id": "WEB_LOGIN_ENABLED",
+        "type": "ENTITLEMENT"
+      },
+      {
+        "id": "WEB_LOGIN_DISABLED",
+        "type": "ENTITLEMENT"
+      },
+      {
+        "id": "WEB_LOGIN",
+        "type": "ENTITLEMENT"
+      },
+      {
+        "id": "SALES_ASSOCIATE",
+        "type": "OFFERING"
+      },
+      {
+        "id": "CUSTOMER_LIST_AND_SALES_TXNS",
+        "type": "OFFERING"
+      }
+    ]
+  }
+}
